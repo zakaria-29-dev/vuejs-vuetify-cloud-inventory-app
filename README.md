@@ -1,4 +1,4 @@
-# design10
+# cloud inventory
 
 ## Project setup
 ```
